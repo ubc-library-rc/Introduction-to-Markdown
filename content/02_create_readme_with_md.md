@@ -140,6 +140,7 @@ You now know how to use Markdown and should be able to use it for creating docum
 - Basic writing and formatting. <https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax>
 - The Ultimate Guide to Markdown. <https://gist.github.com/cuonggt/9b7d08a597b167299f0d>
 - Handbook Markdown Guide. <https://handbook.gitlab.com/docs/markdown-guide/>
+
 ---
 
 Need help?
