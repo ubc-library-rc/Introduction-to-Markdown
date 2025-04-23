@@ -144,8 +144,9 @@ You have learned some advanced Markdown hacks and workarounds using HTML for com
 {: .no_toc }
 - Markdown Guide. <https://www.markdownguide.org/>
 - Basic writing and formatting. <https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax>
-- The Ultimate Guide to Markdown. <https://gist.github.com/cuonggt/9b7d08a597b167299f0d>
 - Handbook Markdown Guide. <https://handbook.gitlab.com/docs/markdown-guide/>
+- The Ultimate Guide to Markdown. <https://gist.github.com/cuonggt/9b7d08a597b167299f0d>
+
 ---
 
 Need help?
