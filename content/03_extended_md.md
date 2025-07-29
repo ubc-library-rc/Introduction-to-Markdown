@@ -10,7 +10,7 @@ In the previous workshops, we outlined what it is and the basic syntax to get st
 
 # Tables 
 
-Tables in Markdown are created with at least three hyphens (---) to create the column header and pipes (|) to separate the columns. This is how you create a table in Markdown:
+Tables in Markdown are created with at least three hyphens `(---)` to create the column header and pipes `(|)` to separate the columns. This is how you create a table in Markdown:
 
 ```
 | Column 1 | Column 2 | Column 3 |
@@ -43,7 +43,7 @@ You can use bold, italics, urls and code in tables. The syntax is the same.
 
 ### Alignment in tables
 
-You can add alignment in tables by adding a colon (:) to the left, right, or both side of the hyphens within the header row.
+You can add alignment in tables by adding a colon `(:)` to the left, right, or both side of the hyphens within the header row.
 
 ```
 | Column 1 | Column 2 | Column 3 |
