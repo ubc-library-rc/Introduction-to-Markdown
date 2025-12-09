@@ -79,10 +79,10 @@ To create an ordered list, add numbers followed by a period (1.) Again, for nest
 
 | **Markdown code**                                      | **What you see**                                                  |
 |--------------------------------------------------------|-------------------------------------------------------------------|
-| `1. Item`<br>`2. Item`                                 | <ol> <li>Item</li> <li>Item</li> </ol>                           |
-| `1. First item`<br>`1. Second item`                     | <ol> <li>First item</li> <li>Second item</li> </ol>               |
-| `1. This works too`<br>`9. Another item`                | <ol> <li>This works too</li> <li>Another item</li> </ol>          |
-| `1. Level one`<br>`2. Level one`<br>`  1. Level two`   | <ol> <li>Level one</li> <li>Level one <ol> <li>Level two</li> </ol> </li> </ol> |
+| `1. Item`<br>`2. Item`                                 | <ol> <li> Item </li> <li> Item </li> </ol>                           |
+| `1. First item`<br>`1. Second item`                     | <ol> <li> First item </li> <li> Second item </li> </ol>               |
+| `1. This works too`<br>`9. Another item`                | <ol> <li> This works too </li> <li> Another item </li> </ol>          |
+| `1. Level one`<br>`2. Level one`<br>`  1. Level two`   | <ol> <li>Level one</li> <li> Level one <ol> <li> Level two </li> </ol> </li> </ol> |
 
 ## Unordered list with ordered list
 
