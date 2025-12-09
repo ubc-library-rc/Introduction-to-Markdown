@@ -67,8 +67,8 @@ To create an unordered list, you need an asterisk (*), dash (-), or a plus sign 
 
 | **Markdown code**                          | **What you see**                                     |
 |--------------------------------------------|------------------------------------------------------|
-| `* Item`<br>`* Item`                       | <ul> <li>Item <li>Item </ul>                         |
-| `- Also an item`<br>`- Also an item`       | <ul> <li>Also an item <li>Also an item </ul>         |
+| `* Item`<br>`* Item`                       | <ul> <li> Item <li>Item </ul>                         |
+| `- Also an item`<br>`- Also an item`       | <ul> <li> Also an item <li>Also an item </ul>         |
 | `+ This also works`<br>`+ This also works` | <ul> <li> This also works <li> This also works </ul> |
 | `* This is level one`<br>`* This is level one`<br> | <ul> <li> This is level one <li> This is level one </ul> |
 | `* This is level one`<br>`* This is level one`<br>`  * This is level two` | <ul> <li> This is level one <li> This is level one <ul> <li> This is level two </ul> </ul> |
